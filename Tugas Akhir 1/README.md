@@ -1,4 +1,4 @@
-# Tugas AkhirnJudul 1
+# Tugas Akhir Judul 1
 ## Basic Network Configuration - Cisco Packet Tracer
 
 ## Video Youtube Tugas Akhir Judul 1
